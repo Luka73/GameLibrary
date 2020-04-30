@@ -1,0 +1,6 @@
+C:\Users\Luana\source\repos\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Luana\source\repos\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Luana\source\repos\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Luana\source\repos\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+C:\Users\Luana\source\repos\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
